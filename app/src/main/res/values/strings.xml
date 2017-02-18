@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Preference Tracker</string>
+    <string name="datafile">foods.ser</string>
+    <string name="title_activity_add_new_food">Add New Item</string>
+</resources>
